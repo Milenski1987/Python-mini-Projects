@@ -1,16 +1,16 @@
 import time
 from colorama import Fore, Back
 
-def countdown(t):
-
+def countdown(t: int) -> str:
     while t >= 0:
-        mins, secs = divmod(t, 60)
-        timer = f'{mins:02d}:{secs:02d}'
+        minutes, seconds = divmod(t, 60)
+        timer = f'{minutes:02d}:{seconds:02d}'
         print(Back.BLACK + Fore.MAGENTA + f"\r{timer}", end="")
         time.sleep(1)
         t -= 1
-    print(f"\nTime is over")
+    return f"\nTime is over"
 
-t = int(input(Fore.CYAN + "Enter time in seconds: "))
+time_in_seconds = int(input(Fore.CYAN + "Enter time in seconds: "))
 
-countdown(t)
+print(countdown(time_in_seconds))
+
