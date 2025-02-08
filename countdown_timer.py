@@ -16,8 +16,8 @@ def main():
         time.sleep(1)
         time_in_seconds -= 1
 
+    print()
+    print("Time is over!!!")
+
 
 main()
-print()
-print("Time is over!!!")
-
