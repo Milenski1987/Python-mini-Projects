@@ -3,4 +3,5 @@
 
 ## Contents:
 
-**[Countdown Timer](https://github.com/Milenski1987/Python-mini-Projects/blob/main/countdown_timer.py)**
+**[Countdown Timer](https://github.com/Milenski1987/Python-mini-Projects/blob/main/countdown_timer.py)** 
+- User inputs desired time in seconds, then time starts to countdown until 0:00.
