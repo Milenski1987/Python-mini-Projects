@@ -4,7 +4,14 @@
 ## Contents:
 
 **[Countdown Timer](https://github.com/Milenski1987/Python-mini-Projects/blob/main/countdown_timer.py)** 
+#### Simple countdown timer
 - User inputs desired time in seconds, then time starts to countdown until 0:00.
+---
+**[Slot Machine](https://github.com/Milenski1987/Python-mini-Projects/blob/main/slot_machine.py)** 
+#### Simple slot machine game
+- User enters desired balance into account
+- User places bet and waits for result
+- Get result and check for winning combination
 
 
 ---
