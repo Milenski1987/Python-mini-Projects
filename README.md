@@ -1,5 +1,6 @@
 ![image](https://github.com/user-attachments/assets/f5206b42-7db9-45a2-bfc3-0de37a7c28d6)
 
+A simple mini projects I wrote over time learning and practicing Python.
 
 ## Contents:
 
