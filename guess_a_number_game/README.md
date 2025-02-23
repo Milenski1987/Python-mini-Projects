@@ -1,7 +1,8 @@
 # 👀 "Guess a number" mini-game
 ### Made by [Milen Nikolov](https://www.linkedin.com/in/milen-nikolov-62455034b/)
 ---
-<img align="center" width="400" height="400" src="https://i.ytimg.com/vi/E-Voff821tE/maxresdefault.jpg">
+![image](https://github.com/user-attachments/assets/e4f7ff3f-d427-4f04-8428-601fe11b3d68)
+
 
 ---
 ## "Guess a number" game built with Python using "random" built-in module:
