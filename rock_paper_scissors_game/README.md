@@ -1,7 +1,8 @@
 # 🪨📄✂️ "Rock - Paper - Scissors" mini-game
 ### Made by [Milen Nikolov](https://www.linkedin.com/in/milen-nikolov-62455034b/)
 ---
-<img align="center" width="1000" height="500" src="https://media.geeksforgeeks.org/wp-content/uploads/20230802174130/Rock-Paper-Scissor.webp">
+![image](https://github.com/user-attachments/assets/abbfd9e7-a53f-45ff-b2ff-3de2d2112e8d)
+
 
 ---
 ## "Rock - Paper - Scissors" game built with Python using "random" built-in module:
