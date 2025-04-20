@@ -11,6 +11,8 @@ A simple mini projects I wrote over time learning and practicing Python.
 ### ["Guess a number" game](https://github.com/Milenski1987/Python-mini-Projects/tree/main/guess_a_number_game)
 ---
 ### ["Rock, Paper or Scissors" game](https://github.com/Milenski1987/Python-mini-Projects/tree/main/rock_paper_scissors_game)
+---
+### ["Connect Four" game](https://github.com/Milenski1987/Python-mini-Projects/tree/main/connect_four_game)
 
 
 
