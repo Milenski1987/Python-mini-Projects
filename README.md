@@ -15,6 +15,8 @@ A simple mini projects I wrote over time learning and practicing Python.
 ### ["Connect Four" game](https://github.com/Milenski1987/Python-mini-Projects/tree/main/connect_four_game)
 ---
 ### ["Tic Tac Toe" game](https://github.com/Milenski1987/Python-mini-Projects/tree/main/tic_tac_toe)
+---
+### [Shop](https://github.com/Milenski1987/Python-mini-Projects/tree/main/shop)
 
 
 
