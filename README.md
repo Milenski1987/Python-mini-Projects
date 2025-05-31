@@ -18,7 +18,7 @@ A simple mini projects I wrote over time learning and practicing Python.
 ---
 ### [Shop](https://github.com/Milenski1987/Python-mini-Projects/tree/main/shop)
 
-fadasd
+
 
 ---
 ## Technology stack:
